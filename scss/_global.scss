@@ -1,0 +1,17 @@
+:root {
+  --back-graund-collor: #f4f1de;
+  --block-collor: #e07a5f;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--back-graund-collor);
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+}
